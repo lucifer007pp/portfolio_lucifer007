@@ -13,5 +13,13 @@
         "startDate": "Aug, 2023",
         "imagesrc": "history/upwork.png",
         "description": "Worked as a part time freelancer"
+    },
+
+    {
+        "role": "Full Stack Developer",
+        "organisation": "Cognifyz Technologies",
+        "startDate": "Mar, 2025",
+        "imagesrc": "history/cognifyz.png",
+        "description": "Worked as a intern"
     }
 ]
